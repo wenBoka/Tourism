@@ -1,0 +1,22 @@
+{
+  "name": "vue_serve_00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {
+    "express-session": "^1.16.2",
+    "http-proxy-middleware": "^0.19.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
